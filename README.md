@@ -7,7 +7,7 @@ Quick Start
 -----------
 
 ```shell
-$ git clone
+$ git clone https://github.com/KestasVe/react-app.git
 $ cd myproject
 $ npm install
 $ npm start
